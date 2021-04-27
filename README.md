@@ -1,1 +1,1 @@
-[Click](cscb://app)
+[Click](cscb://www.app)
