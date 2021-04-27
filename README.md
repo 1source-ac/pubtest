@@ -1,0 +1,1 @@
+[Click](cscb://app)
